@@ -15,7 +15,12 @@
         ElseIf RadioButton3.Checked = True Then
             TextBox3.Text = Val(x) * Val(y)
         Else
-            TextBox3.Text = Val(x) / Val(y)
+            If Val(y) = 0 Then
+                MsgBox("分母为0", MsgBoxStyle.RetryCancel, "sy3-6")
+                TextBox2.Text = "" : TextBox2.Focus()
+            Else
+                TextBox3.Text = Val(x) / Val(y)
+            End If
         End If
 
         If CheckBox1.Checked = True Then TextBox3.ForeColor = Color.Red
