@@ -1,0 +1,10 @@
+C:\Users\xieti\AppData\Local\Temporary Projects\2350450-7-1\bin\Debug\2350450-7-1.exe.config
+C:\Users\xieti\AppData\Local\Temporary Projects\2350450-7-1\bin\Debug\2350450-7-1.exe
+C:\Users\xieti\AppData\Local\Temporary Projects\2350450-7-1\bin\Debug\2350450-7-1.pdb
+C:\Users\xieti\AppData\Local\Temporary Projects\2350450-7-1\bin\Debug\2350450-7-1.xml
+C:\Users\xieti\AppData\Local\Temporary Projects\2350450-7-1\obj\Debug\_2350450_7_1.Form1.resources
+C:\Users\xieti\AppData\Local\Temporary Projects\2350450-7-1\obj\Debug\_2350450_7_1.Resources.resources
+C:\Users\xieti\AppData\Local\Temporary Projects\2350450-7-1\obj\Debug\2350450-7-1.vbproj.GenerateResource.Cache
+C:\Users\xieti\AppData\Local\Temporary Projects\2350450-7-1\obj\Debug\2350450-7-1.exe
+C:\Users\xieti\AppData\Local\Temporary Projects\2350450-7-1\obj\Debug\2350450-7-1.xml
+C:\Users\xieti\AppData\Local\Temporary Projects\2350450-7-1\obj\Debug\2350450-7-1.pdb

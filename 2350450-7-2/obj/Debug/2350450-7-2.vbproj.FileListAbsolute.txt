@@ -1,0 +1,14 @@
+C:\Users\xieti\AppData\Local\Temporary Projects\2350450-7-2\bin\Debug\2350450-7-2.exe.config
+C:\Users\xieti\AppData\Local\Temporary Projects\2350450-7-2\bin\Debug\2350450-7-2.exe
+C:\Users\xieti\AppData\Local\Temporary Projects\2350450-7-2\bin\Debug\2350450-7-2.pdb
+C:\Users\xieti\AppData\Local\Temporary Projects\2350450-7-2\bin\Debug\2350450-7-2.xml
+C:\Users\xieti\AppData\Local\Temporary Projects\2350450-7-2\obj\Debug\_2350450_7_2.Form1.resources
+C:\Users\xieti\AppData\Local\Temporary Projects\2350450-7-2\obj\Debug\_2350450_7_2.Resources.resources
+C:\Users\xieti\AppData\Local\Temporary Projects\2350450-7-2\obj\Debug\2350450-7-2.vbproj.GenerateResource.Cache
+C:\Users\xieti\AppData\Local\Temporary Projects\2350450-7-2\obj\Debug\2350450-7-2.exe
+C:\Users\xieti\AppData\Local\Temporary Projects\2350450-7-2\obj\Debug\2350450-7-2.xml
+C:\Users\xieti\AppData\Local\Temporary Projects\2350450-7-2\obj\Debug\2350450-7-2.pdb
+D:\应试\VB\homework\2350450-7-2\bin\Debug\2350450-7-2.exe.config
+D:\应试\VB\homework\2350450-7-2\obj\Debug\2350450-7-2.exe
+D:\应试\VB\homework\2350450-7-2\obj\Debug\2350450-7-2.xml
+D:\应试\VB\homework\2350450-7-2\obj\Debug\2350450-7-2.pdb
