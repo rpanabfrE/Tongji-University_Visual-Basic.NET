@@ -1,0 +1,11 @@
+C:\Users\xieti\AppData\Local\Temporary Projects\2350450\bin\Debug\2350450.exe.config
+D:\应试\VB\期中\2350450\bin\Debug\2350450.exe.config
+D:\应试\VB\期中\2350450\bin\Debug\2350450.exe
+D:\应试\VB\期中\2350450\bin\Debug\2350450.pdb
+D:\应试\VB\期中\2350450\bin\Debug\2350450.xml
+D:\应试\VB\期中\2350450\obj\Debug\_2350450.Form1.resources
+D:\应试\VB\期中\2350450\obj\Debug\_2350450.Resources.resources
+D:\应试\VB\期中\2350450\obj\Debug\2350450.vbproj.GenerateResource.Cache
+D:\应试\VB\期中\2350450\obj\Debug\2350450.exe
+D:\应试\VB\期中\2350450\obj\Debug\2350450.xml
+D:\应试\VB\期中\2350450\obj\Debug\2350450.pdb

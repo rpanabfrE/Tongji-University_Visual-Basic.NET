@@ -1,0 +1,10 @@
+D:\应试\VB\期中\2015error1\bin\Debug\error1.exe.config
+D:\应试\VB\期中\2015error1\bin\Debug\error1.exe
+D:\应试\VB\期中\2015error1\bin\Debug\error1.pdb
+D:\应试\VB\期中\2015error1\bin\Debug\error1.xml
+D:\应试\VB\期中\2015error1\obj\Debug\WindowsApplication1.Form1.resources
+D:\应试\VB\期中\2015error1\obj\Debug\WindowsApplication1.Resources.resources
+D:\应试\VB\期中\2015error1\obj\Debug\error1.vbproj.GenerateResource.Cache
+D:\应试\VB\期中\2015error1\obj\Debug\error1.exe
+D:\应试\VB\期中\2015error1\obj\Debug\error1.xml
+D:\应试\VB\期中\2015error1\obj\Debug\error1.pdb
