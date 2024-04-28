@@ -1,0 +1,13 @@
+'算最大公约数
+
+Dim a, b As Integer
+a = InputBox("a")
+b = InputBox("b")
+
+Dim r% = a Mod b
+Do While r <> 0
+    a = b
+    b = r
+    r = a Mod b
+Loop
+MsgBox(b)
