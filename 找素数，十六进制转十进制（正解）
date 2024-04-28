@@ -1,0 +1,54 @@
+'判断一个整数是否是素数(Prime)
+
+Function isPrime(n%) As Boolean
+    Dim f As Boolean = true
+    Dim i%
+    For i = 2 To n/2
+        If n Mod i = 0 Then f = False : Exit For
+    Next
+    Return f
+End Function
+
+'举例
+
+Dim n%
+For i = 800 To 900
+    If isPrime(i) Then n += 1 : Label1.Text &= i & VbCrLf
+Next
+Msgbox(n)
+
+------------------------------------
+
+’十六进制转十进制
+
+Dim s, c As String
+Dim n, h As Integer
+
+s = UCase(TextBox1.Text)
+n = Len(s)
+For i = 1 To n
+    c = Mid(s, i ,1)
+    If c >= "0" And c <= "9" Then
+        h = h* 16 + Val(c)
+    Elseif c >= "A"
+        h = h * 16 + Asc(c) - 55
+
+'以a5b为例
+'十六进制中a=10 : b = 11
+
+h=10
+h=10*16 + 5
+h=(10 * 16 + 5)*16 + 11
+
+'即h = 10 * 16 * 16 + 5 * 16  + 11
+'即h = 10 * ( 16 ^ 2 ) + 5 * ( 16 ^ 1 ) + 11 * ( 16 ^ 0 )
+
+
+------------------------------------下面是一些零碎的课堂笔记
+
+'求大数原来是有个函数的吗
+
+Max = IIf(x > y, x, y)
+
+'If语句中的表达式
+可以是关系表达式、逻辑表达式或算术表达式
