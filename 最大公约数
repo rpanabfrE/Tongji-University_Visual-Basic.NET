@@ -1,13 +1,22 @@
-'算最大公约数
+'最大公约数算法
 
-Dim a, b As Integer
-a = InputBox("a")
-b = InputBox("b")
+Function gcd(m%, n%) As Integer    'GCD的意思是Greatest Common Divisor
+    Dim t%
+    If m < n Then t=m : m=n : n=t
+    Dim r% = m Mod n
 
-Dim r% = a Mod b
-Do While r <> 0
-    a = b
-    b = r
-    r = a Mod b
-Loop
-MsgBox(b)
+    Do while r <> 0
+        m=n
+        n=r
+        r = m Mod r
+    Loop
+    
+    gcd = n
+End Function
+
+'以m=16，n=12为例
+r = 16 Mod 12 = 4
+m = 12
+n = 4
+r = 12 Mod 4 = 0
+'即16与12的最大公约数是4
