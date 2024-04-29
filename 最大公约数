@@ -4,15 +4,15 @@ Function gcd(m%, n%) As Integer    'GCD的意思是Greatest Common Divisor
     Dim t%
     If m < n Then t=m : m=n : n=t
     Dim r% = m Mod n
-
     Do while r <> 0
         m=n
-        n=r
-        r = m Mod r
+        n=r    '这一步用意何在……？
+        r = m Mod r    '如果上一步要有意义的话，这里或许应该写成r = m Mod n？保证统一性……
     Loop
-    
-    gcd = n
+    gcd = n    '哦等等……原来n才是最终Return的最大公约数啊，r则是判断式。那就没问题了
 End Function
+
+----------------------------------------
 
 '以m=16，n=12为例
 r = 16 Mod 12 = 4
@@ -20,3 +20,13 @@ m = 12
 n = 4
 r = 12 Mod 4 = 0
 '即16与12的最大公约数是4
+
+'以m=30，n=18为例
+r = 30 Mod 18 = 12
+m = 18
+n = 12
+r = 18 Mod 12 = 6
+m = 12
+n = 6
+r = 12 Mod 6 = 0
+'即30与18的最大公约数是6
